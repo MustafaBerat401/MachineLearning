@@ -1,0 +1,46 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun  5 12:44:17 2021
+
+@author: Mustafa Berat
+"""
+
+Tek Parametreli olarak
+Linear            
+R-squared:                               0.942
+
+Polynomial
+R-squared:                               0.810
+
+SVR
+R-squared:                               0.770
+
+DT
+R-squared:                               0.751
+
+RF
+R-squared:                               0.719   
+
+
+
+3 Parametreli olarak
+Linear            
+R-squared:                               0.903
+
+Polynomial
+R-squared:                               0.680
+
+SVR
+R-squared:                               0.782
+
+DT
+R-squared:                               0.679
+
+RF
+R-squared:                               0.713   
+
+
+
+
+
+
